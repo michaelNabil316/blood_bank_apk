@@ -16,3 +16,4 @@ in this application i used:
 13-you can search for user 
 14-by filter users with blood type and government
 15-beautiful drawer for pages
+16-using animation in welcome screen
