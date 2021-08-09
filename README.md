@@ -1,5 +1,4 @@
 # blood_bank_apk
-i will update files after final project
 in this application i used:
 1-Authentication (sign in , sign up and log out)
 2-validatuin for authentication
