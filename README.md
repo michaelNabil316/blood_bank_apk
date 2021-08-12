@@ -5,7 +5,7 @@ in this application i used:
 3-firebase auth
 4-put posts in the page of posts with Realtime database
 5-edit and delet post
-6-show user data in post
+6-translation to arabic using local storage
 7-in profile page you can change your profile picture
 8-using image picker and put image in firebase Storage
 9-all your posts and profile will be update to the new image
@@ -16,3 +16,4 @@ in this application i used:
 14-by filter users with blood type and government
 15-beautiful drawer for pages
 16-using animation in welcome screen
+17-show user data in post
