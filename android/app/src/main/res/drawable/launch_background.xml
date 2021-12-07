@@ -4,7 +4,6 @@
     <item android:drawable="@android:color/white" />
 
     <!-- You can insert your own image assets here -->
-    <!-- android:gravity="file" -->
     <item>
         <bitmap
             android:layout_width="wrap_content"
