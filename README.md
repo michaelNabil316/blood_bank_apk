@@ -17,3 +17,7 @@ in this application i used:
 15-beautiful drawer for pages
 16-using animation in welcome screen
 17-show user data in post
+
+
+https://user-images.githubusercontent.com/66490732/145117521-1a622b0d-a06c-4af4-9262-f8e8ac16698f.mp4
+
