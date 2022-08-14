@@ -1,4 +1,3 @@
-import 'package:blood_bank/presentations/components/app_drawer.dart';
 import 'package:blood_bank/presentations/constants.dart';
 import 'package:blood_bank/presentations/screens/aboutus.dart';
 import 'package:blood_bank/presentations/screens/allchats.dart';
@@ -18,7 +17,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
 import 'package:get_storage/get_storage.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-
 import 'business_logic/cubit/bloc.dart';
 
 void main() async {

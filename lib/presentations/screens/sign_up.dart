@@ -39,8 +39,6 @@ class _SignUpScreenState extends State<SignUpScreen> {
   int phone = 0;
   int age = 0;
   bool showSpinner = false;
-  var emailRegExp = RegExp(
-      r"^[a-zA-Z0-9.a-zA-Z0-9.!#$%&'*+-/=?^_`{|}~]+@[a-zA-Z0-9]+\.[a-zA-Z]+");
   bool isFirstName = false;
   bool isLastName = false;
   bool isEmail = false;
@@ -125,7 +123,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                         decoration: KTextFieldDecoration.copyWith(
                           hintText: 'Enter password'.tr,
                           errorText: isPassword
-                              ? 'can\'t be less than 8 digits'.tr
+                              ? 'password must be at least 8 digits'.tr
                               : null,
                         ),
                       ),
